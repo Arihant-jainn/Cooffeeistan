@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong>Live Demo:</strong><br />
-  👉 <a href="[#](https://cooffeeistan.vercel.app/)">Check out the live version of CoffeeHub</a> 👈
+  👉 <a href="(https://cooffeeistan.vercel.app/)">Check out the live version of CoffeeHub</a> 👈
 </p>
 
 
