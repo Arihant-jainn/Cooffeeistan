@@ -41,7 +41,7 @@
 <p align="center">
   <strong>Screenshot:</strong><br />
   📸 (Replace this with your actual screenshot)<br />
-  <img src="./screenshots/main-page.png" alt="CoffeeHub Main Page" width="600" />
+  <img src="demo.png" alt="CoffeeHub Main Page" width="600" />
 </p>
 
 ---
