@@ -1,167 +1,34 @@
-<div align="center">
+<p align="center">
+  <img src="https://your-screenshot-link.com/screenshot.png" alt="Coffee Website Screenshot" width="600"/>
+</p>
 
-# Coffeeistan ☕️
+<h1 align="center">☕ Best Coffee Website</h1>
 
-## A curated showcase of the world's best coffee.
+<p align="center">
+A modern and responsive coffee website designed for coffee lovers. Discover, search, and save your favorite coffee blends with a sleek and user-friendly interface.
+</p>
 
-Coffeeistan is a website dedicated to celebrating the art and science of coffee. It serves as a digital hub for coffee enthusiasts, providing detailed information on the best beans, brewing methods, and coffee houses from around the globe. Whether you're a seasoned barista or just starting your journey into the world of coffee, Coffeeistan is designed to be your go-to resource.
+---
 
-</div>
+## 🚀 Features
+- 🔍 **Search Functionality** – Quickly find your favorite coffee.  
+- ❤️ **Like Button** – Save and track your preferred coffee options.  
+- 📱 **Responsive Design** – Works perfectly on desktop, tablet, and mobile.  
+- ⚡ **Fast & Smooth Navigation** – Lightweight and optimized performance.  
+- 🎨 **Modern UI/UX** – Clean and professional design tailored for coffee enthusiasts.  
 
-## Table of Contents
+---
 
-<div align="center">
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Styling:** SCSS / CSS / TailwindCSS (if applicable)  
+- **Hosting:** GitHub Pages / Netlify / Vercel  
 
-* [Features](https://www.google.com/search?q=%23features) ✨
+---
 
-* [Technologies Used](https://www.google.com/search?q=%23technologies-used) 💻
+## 📦 Installation & Setup
 
-* [Getting Started](https://www.google.com/search?q=%23getting-started) 🚀
-
-  * [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-
-  * [Installation](https://www.google.com/search?q=%23installation)
-
-* [Usage](https://www.google.com/search?q=%23usage) 🗺️
-
-* [Contributing](https://www.google.com/search?q=%23contributing) 🤝
-
-* [License](https://www.google.com/search?q=%23license) 📜
-
-* [Contact](https://www.google.com/search?q=%23contact) 📧
-
-</div>
-
-<div align="center">
-
-## Features ✨
-
-* **Curated Coffee Database:** Explore a hand-picked selection of high-quality coffee beans and roasts.
-
-* **Detailed Information:** Each coffee entry includes tasting notes, origin story, roast level, and recommended brewing methods.
-
-* **Interactive Map:** Discover the best coffee shops near you with an interactive map feature.
-
-* **User Reviews & Ratings:** Share your thoughts and read reviews from other coffee lovers.
-
-* **Brewing Guides:** Step-by-step instructions and tips for various brewing techniques, from pour-over to espresso.
-
-* **Responsive Design:** A seamless experience on any device, from desktop to mobile.
-
-</div>
-
-<div align="center">
-
-## Technologies Used 💻
-
-The Coffeeistan project is built with a modern web development stack to ensure a fast, reliable, and scalable application.
-
-* **Frontend:**
-
-  * **HTML5:** For the website structure.
-
-  * **CSS3:** For styling and layout.
-
-  * **JavaScript (ES6+):** For interactivity and dynamic content.
-
-  * **React:** A powerful JavaScript library for building user interfaces.
-
-  * **Tailwind CSS:** For utility-first CSS styling.
-
-* **Backend:**
-
-  * **Node.js:** The runtime environment.
-
-  * **Express.js:** A web application framework for the server.
-
-  * **MongoDB:** A NoSQL database for storing coffee data and user information.
-
-</div>
-
-<div align="center">
-
-## Getting Started 🚀
-
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-You will need the following software installed on your computer:
-
-* **Node.js:** <https://nodejs.org/>
-
-* **npm (Node Package Manager):** Comes with Node.js.
-
-* **Git:** <https://git-scm.com/>
-
-### Installation
-
-1. **Clone the repository:**
-git clone https://github.com/your-username/coffeeistan.git
-cd coffeeistan
-
-2. **Install the dependencies:**
-npm install
-
-
-3. **Set up environment variables:**
-Create a `.env` file in the root directory and add the following:
-
-MONGO_URI="your_mongodb_connection_string"
-
-4. **Run the application:**
-
-npm run dev
-
-
-The application will now be running on `http://localhost:3000`.
-
-</div>
-
-<div align="center">
-
-## Usage 🗺️
-
-Once the application is running, you can:
-
-* Browse the home page to see featured coffees.
-
-* Use the navigation bar to explore different sections like "Coffee Beans," "Brewing Guides," and "Coffee Shops."
-
-* Log in to leave reviews and save your favorite coffees.
-
-</div>
-
-<div align="center">
-
-## Contributing 🤝
-
-Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-
-5. Open a Pull Request
-
-</div>
-
-<div align="center">
-
-## License 📜
-
-Distributed under the MIT License. See `LICENSE.md` for more information.
-
-## Contact 📧
-
-Your Name - [@your_twitter](https://www.google.com/search?q=https://twitter.com/your_twitter) - your.email@example.com
-
-Project Link: [https://github.com/your-username/coffeeistan](https://www.google.com/search?q=https://github.com/your-username/coffeeistan)
-
-*Please remember to replace the placeholder information (like `your-username`, `your.email@example.com`, etc.) and the GIF links with your own details.*
-
-</div>
+### Clone the repository
+```bash
+git clone https://github.com/your-username/coffee-website.git
+cd coffee-website
