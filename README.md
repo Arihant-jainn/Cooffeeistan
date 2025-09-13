@@ -1,7 +1,7 @@
-<h1 align="center">☕ CoffeeHub ☕</h1>
+<h1 align="center">☕ Cooffeeistan ☕</h1>
 
 <p align="center">
-  Welcome to <strong>CoffeeHub</strong>, a professional and user-friendly website dedicated to coffee enthusiasts! 🌟<br />
+  Welcome to <strong>Cooffeeistan</strong>, a professional and user-friendly website dedicated to coffee enthusiasts! 🌟<br />
   Explore detailed information about various coffee types, search for your favorite blends,<br />
   and engage with a vibrant coffee community by liking and sharing your preferences. 🚀
 </p>
@@ -15,8 +15,8 @@
 ## ☕ About
 
 <p align="center">
-  <strong>CoffeeHub</strong> is a web platform designed to provide comprehensive details about different coffee varieties, their origins, flavors, and brewing methods. <br />
-  Whether you're a casual coffee drinker or a seasoned barista, CoffeeHub allows you to search for coffees, discover new blends, and interact with the community by liking your favorites. 📚
+  <strong>Cooffeeistan</strong> is a web platform designed to provide comprehensive details about different coffee varieties, their origins, flavors, and brewing methods. <br />
+  Whether you're a casual coffee drinker or a seasoned barista, Cooffeeistan allows you to search for coffees, discover new blends, and interact with the community by liking your favorites. 📚
 </p>
 
 ---
@@ -45,14 +45,25 @@
 </p>
 
 ---
+## 🧱 Technologies
 
+The CoffeeHub project is built using the following technologies:
+
+- **Framework**: [Angular 18+](https://angular.io/) 🅰️  
+- **Language**: TypeScript  
+- **UI Design**: HTML, CSS, [Angular Material](https://material.angular.io/) or custom styles 🎨  
+- **HTTP Client**: Angular's built-in `HttpClientModule` for API requests 🌐  
+- **API Source**: [SampleAPIs - Coffee (Hot)](https://api.sampleapis.com/coffee/hot) ☕  
+- **Component Structure**: Follows Angular best practices with components, services, and modules 📁  
+- **State Handling**: Built-in loading and error handling using Angular RxJS and conditional templates 🔄  
+- **Development Tools**: Angular CLI, Live Development Server, and Debugging Tools 🛠️
 ## 🛠️ Installation
 
 To set up CoffeeHub locally, follow these steps:
 
-```bash
+bash
 # Clone the repository 📥
-git clone https://github.com/your-username/coffeehub.git
+git clone https://github.com/Arihant-jainn/Cooffeeistan.git
 
 # Navigate to the project directory 📂
 cd coffeehub
@@ -73,17 +84,7 @@ npm run build
 
 ☕❤️ Enjoy exploring coffees!
 
-🧱 Technologies
 
-(Update this section based on your actual tech stack)
-
-Frontend: React.js / HTML / CSS / JavaScript ⚛️
-
-Backend: Node.js / Express (if applicable) 🖥️
-
-Database: MongoDB / Firebase (if applicable) 📊
-
-Styling: Bootstrap / Tailwind CSS 🎨
 
 🤝 Contributing
 
@@ -105,6 +106,4 @@ git push origin feature/YourFeature
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-📬 Contact
-<p align="center"> <strong>Email:</strong> your.email@example.com 📧 <br /> <strong>GitHub:</strong> <a href="https://github.com/your-username">your-username</a> 👤 </p>
-<p align="center"><strong>Thanks for visiting CoffeeHub! ☕ Happy brewing! 🌟</strong></p>
+
