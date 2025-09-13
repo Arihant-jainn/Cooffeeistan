@@ -7,7 +7,12 @@
 </p>
 
 ---
+## 🌐 Demo
 
+<p align="center">
+  <strong>Live Demo:</strong><br />
+  👉 <a href="[#](https://cooffeeistan.vercel.app/)">Check out the live version of CoffeeHub</a> 👈
+</p>
 
 
 ---
@@ -31,12 +36,7 @@
 
 ---
 
-## 🌐 Demo
 
-<p align="center">
-  <strong>Live Demo:</strong><br />
-  👉 <a href="#">Check out the live version of CoffeeHub</a> 👈
-</p>
 
 <p align="center">
   <strong>Screenshot:</strong><br />
